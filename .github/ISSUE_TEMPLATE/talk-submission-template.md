@@ -1,9 +1,9 @@
 ---
 name: Talk submission template
-about: Template for suggesting a talk
+about: Use this issue template for proposing a talk
 title: ''
 labels: ''
-assignees: ''
+assignees: yankcrime, mattj-io, thomasriley
 
 ---
 
