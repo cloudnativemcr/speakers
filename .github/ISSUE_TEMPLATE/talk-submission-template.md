@@ -3,7 +3,7 @@ name: Talk submission template
 about: Use this issue template for proposing a talk
 title: ''
 labels: ''
-assignees: yankcrime, mattj-io, thomasriley
+assignees: thomasriley, patrick-stephens, jennynilsen
 
 ---
 
@@ -15,7 +15,7 @@ assignees: yankcrime, mattj-io, thomasriley
 
 **Description**
 
-*Please Provide a small paragraph that describes your proposal*
+*Please provide a short paragraph that describes your proposal*
 
 **Speaker Bio** (optional)
 
